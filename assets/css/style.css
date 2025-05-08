@@ -39,7 +39,6 @@
 @media (max-width: 576px) {
     .custom-div {
         width: 90%; /* Adjust width for smaller screens */
-        margin-bottom: 26px;
     }
 
     .add {
@@ -78,7 +77,7 @@
 
 .custom-last {
     margin-bottom: 2.5em;
-    margin-bottom: 30px !important;
+    margin-bottom: 28px !important;
 }
 
 /* Projects */
